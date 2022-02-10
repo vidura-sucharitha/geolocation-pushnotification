@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051019607918",
+    "project_id": "fir-push-notifications-ae1ec",
+    "storage_bucket": "fir-push-notifications-ae1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051019607918:android:d7e5cebc82e78c425b8b7f",
+        "android_client_info": {
+          "package_name": "com.pushnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051019607918-lotrj03k6na242s0rmi76m4vq83k8oja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvswanfBr4g4iQkZXfUXXxGcXSGvwsnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051019607918-lotrj03k6na242s0rmi76m4vq83k8oja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
